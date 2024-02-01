@@ -18,7 +18,7 @@
 
 4. [Caso Práctico](practico.md)
 
-5. [![Video Aqui](img/click.jpg)](https://www.youtube.com)
+5. [![Video Aqui](img/click2)](https://www.youtube.com)
 
 ![rpm](img/rpm2deb.png)
 
