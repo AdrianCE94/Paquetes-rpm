@@ -23,25 +23,25 @@
 
 ## WEBGRAFÍA
 
-[Software Management - Documentation - Rocky Linux:](https://docs.rockylinux.org/books/admin_guide/13-softwares/){:target="_blank"}
+[Software Management - Documentation - Rocky Linux:](https://docs.rockylinux.org/books/admin_guide/13-softwares/) {:target="_blank"}
 
 Esta página explica cómo usar el sistema de gestión de software rpm, el comando rpm y el comando dnf para instalar, actualizar, eliminar y consultar paquetes en Rocky Linux.
 
-[Home - Documentation - Rocky Linux: ](https://docs.rockylinux.org/){:target="_blank"}
+[Home - Documentation - Rocky Linux: ](https://docs.rockylinux.org/) {:target="_blank"}
 
 Esta página es la página principal de la documentación de Rocky Linux, donde se pueden encontrar guías, libros, laboratorios y notas de lanzamiento sobre diversos aspectos de la distribución.
 
-[RPM - Rocky Linux Wiki:](https://wiki.rockylinux.org/team/release_engineering/rpm/){:target="_blank"}
+[RPM - Rocky Linux Wiki:](https://wiki.rockylinux.org/team/release_engineering/rpm/) {:target="_blank"}
 
 Esta página es parte de la wiki de Rocky Linux, donde se puede encontrar documentación e información útil sobre la construcción de paquetes y la modularidad.
 
-[Software Management - Documentation - Rocky Linux:](https://docs.rockylinux.org/zh/books/admin_guide/13-softwares/){:target="_blank"}
+[Software Management - Documentation - Rocky Linux:](https://docs.rockylinux.org/zh/books/admin_guide/13-softwares/) {:target="_blank"}
 
 Esta página es la versión en chino de la primera página que he mencionado, donde se explica cómo usar el sistema de gestión de software rpm, el comando rpm y el comando dnf para instalar, actualizar, eliminar y consultar paquetes en Rocky Linux.
 
 ## AUTOR
 
-* :pushpin: [Cabezuelo Expósito, Adrián](https://github.com/AdrianCE94)
+:pushpin: [Cabezuelo Expósito, Adrián](https://github.com/AdrianCE94)
 
 ## LICENCIA
 
