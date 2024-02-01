@@ -23,4 +23,4 @@ gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rockyofficial
 
 
 
-[![Volver al README](img/seccion.png)](../paquetesrpm/README.md)
+[![Volver al README](img/seccion.png)](README.md)
