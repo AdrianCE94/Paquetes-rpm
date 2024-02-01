@@ -20,7 +20,7 @@
 
 5. [![Video Aqui](img/click.jpg)](https://www.youtube.com)
 
-![rpm](img/rpm2deb.png)(https://www.youtube.com/)
+![rpm](img/rpm2deb.png)
 
 
 ## WEBGRAFÍA
