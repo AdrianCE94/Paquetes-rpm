@@ -42,8 +42,8 @@ Esta página es la página principal de la documentación de Rocky Linux, donde 
 
 Esta página es parte de la wiki de Rocky Linux, donde se puede encontrar documentación e información útil sobre la construcción de paquetes y la modularidad.
 
-[Software Management - Documentation - Rocky](https://docs.rockylinux.org/zh/books/admin_guide/13-softwares/)
+[Software Management - Documentation - Rocky Linux:](https://docs.rockylinux.org/zh/books/admin_guide/13-softwares/)
 
-Linux: Esta página es la versión en chino de la primera página que he mencionado, donde se explica cómo usar el sistema de gestión de software rpm, el comando rpm y el comando dnf para instalar, actualizar, eliminar y consultar paquetes en Rocky Linux.
+Esta página es la versión en chino de la primera página que he mencionado, donde se explica cómo usar el sistema de gestión de software rpm, el comando rpm y el comando dnf para instalar, actualizar, eliminar y consultar paquetes en Rocky Linux.
 
 
