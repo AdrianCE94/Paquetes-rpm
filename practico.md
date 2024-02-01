@@ -22,4 +22,4 @@ Para comprobar que se ha instalado un paquete, se puede usar el comando `yum inf
 Para desinstalar un paquete, se puede usar el comando `yum remove` o `dnf remove`, seguido del nombre del paquete. Por ejemplo, para desinstalar el paquete `vim-enhanced`, se puede usar el comando `yum remove vim-enhanced` o `dnf remove vim-enhanced`, que eliminarán el paquete y sus componentes, así como los paquetes que dependan de él y que no sean necesarios para el sistema.
 
 
-[![Volver al README](img/seccion.png)](../paquetesrpm/README.md)
+[![Volver al README](img/seccion.png)](README.md)
