@@ -11,4 +11,4 @@ Rocky Linux se fundamenta en el código fuente de Red Hat Enterprise Linux (RHEL
 [^23]: Nota: [Sitio web oficial de Rocky Linux](https://rockylinux.org/)
 
 
-[![Volver al README](img/seccion.png)](../paquetesrpm/README.md)
+[![Volver al README](img/seccion.png)](../README.md)
