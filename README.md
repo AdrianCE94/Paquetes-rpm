@@ -18,7 +18,7 @@
 
 4. [Caso Práctico](practico.md)
 
-5. [VIDEO PRUEBA]
+5. [VIDEO PRUEBA](img/click.jpg)
 
 ![rpm](img/rpm2deb.png)
 
