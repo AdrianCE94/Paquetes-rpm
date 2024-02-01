@@ -8,4 +8,4 @@ Los paquetes rpm son archivos que contienen el software compilado y listo para i
 
 ![rpm](img/rpm-package-management-300x257-1.png)
 
-[![Volver al README](img/seccion.png)](../paquetesrpm/README.md)
+[![Volver al README](img/seccion.png)](README.md)
