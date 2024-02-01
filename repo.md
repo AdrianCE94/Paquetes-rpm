@@ -21,6 +21,6 @@ gpgcheck=1
 enabled=1
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-rockyofficial
 
-
+```
 
 [![Volver al README](img/seccion.png)](README.md)
