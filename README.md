@@ -18,15 +18,13 @@
 
 4. [Caso Práctico](practico.md)
 
-5.VIDEO PRÁCTICO
+5. VIDEO PRÁCTICO 
 
 
 
    [![Video Aqui](img/click2)](https://www.youtube.com)
 
 
-
-![rpm](img/rpm2deb.png)
 
 
 ## WEBGRAFÍA
@@ -46,6 +44,9 @@ Esta página es parte de la wiki de Rocky Linux, donde se puede encontrar docume
 [Software Management - Documentation - Rocky Linux:](https://docs.rockylinux.org/zh/books/admin_guide/13-softwares/)
 
 Esta página es la versión en chino de la primera página que he mencionado, donde se explica cómo usar el sistema de gestión de software rpm, el comando rpm y el comando dnf para instalar, actualizar, eliminar y consultar paquetes en Rocky Linux.
+
+
+![rpm](img/rpm2deb.png)
 
 ## AUTOR
 
